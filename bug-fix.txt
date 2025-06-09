@@ -1,0 +1,7 @@
+bugf 1// fixed 
+bug 2 //fixed
+
+
+
+bug3 //fixed
+bug 4// fixed
